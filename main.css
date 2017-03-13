@@ -15,3 +15,18 @@
 .navbarf {
     font-family: 'Raleway', sans-serif;
 }
+
+.bor-rad {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding:5px;
+}
+
+.mar {
+    margin-top : 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding:5px;
+}
