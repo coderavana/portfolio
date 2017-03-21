@@ -40,3 +40,27 @@
 .margin_rcol {
   margin-top:60px;
 }
+
+.margin_rcol_bot {
+  margin-bottom: 90px;
+}
+
+.column_text {
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+}
+
+.column_head {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.column_mid_head {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.column_mid_text {
+  font-size: 24px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
