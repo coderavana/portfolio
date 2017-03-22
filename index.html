@@ -28,9 +28,16 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#050202">
 
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- Page Loader Script-->
+<script type="text/javascript">
+$(window).load(function() {
+	$(".loader").fadeOut("slow");
+})
+</script>
+        
     </head>
     <body>
-
+        <div class="loader"></div> <!-- The Pre-loader-->
         <div class="container-fluid">
 
         <nav class="navbar navbar-inverse navbar-fixed-bottom"> <!-- The Home Navbar -->
